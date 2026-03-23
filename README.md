@@ -1,10 +1,15 @@
 # Digital Literacy Project
 
-**Name:** Aaryan Saxena  
+**Name:** Aaryan Saxena 
+<br>
 **Registration Number:** 25BCE10619 
+<br>
 **Course Code:** CSE0001  
+<br>
 **Course Title:** Digital Literacy  
+<br>
 **Branch:** Computer Science and Engineering  
+<br>
 **Year:** First Year  
 ---
 
