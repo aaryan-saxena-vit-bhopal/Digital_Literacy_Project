@@ -11,6 +11,7 @@
 **Branch:** Computer Science and Engineering  
 <br>
 **Year:** First Year  
+---
 
 ## 📌 Project Overview
 This project was created as part of the **CSE0001 Digital Literacy** course at VIT Bhopal University. It focuses on building essential digital literacy skills, including online presence, professional communication, coding platforms, and cyber safety.
